@@ -7,11 +7,12 @@ Este projeto tem como objetivo explorar e visualizar uma base de dados de vendas
 ```
 analise-dados-python/
 ├── data/
-│   └── games_sales.csv
+│   └── vendas_jogos.csv
 ├── notebooks/
 │   └── analise-vendas-jogos.ipynb
 ├── images/
-│   └── grafico-generos.png
+│   └── gráfico-1.png
+    └── gráfico-2.png
 ├── README.md
 ├── requirements.txt
 ```
@@ -34,7 +35,7 @@ analise-dados-python/
 
 ## 📸 Exemplo de gráfico
 
-![Gráfico de Gêneros](images/grafico-generos.png)
+![Gráfico de Gêneros](images/gráfico-1.png)
 
 ## 📌 Como executar
 
