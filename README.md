@@ -6,11 +6,11 @@ Este projeto tem como objetivo explorar e visualizar uma base de dados de vendas
 
 ```
 analise-dados-python/
-├── data/
+├── Data/
 │   └── vendas_jogos.csv
-├── notebooks/
+├── Notebooks/
 │   └── analise-vendas-jogos.ipynb
-├── images/
+├── Images/
 │   └── gráfico-1.png
     └── gráfico-2.png
 ├── README.md
