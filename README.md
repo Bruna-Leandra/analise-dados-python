@@ -35,7 +35,7 @@ analise-dados-python/
 
 ## 📸 Exemplo de gráfico
 
-![Gráfico de Gêneros](Images/gráfico-1.png)
+![Descrição da imagem](Images/gráfico-1.png)
 
 ## 📌 Como executar
 
