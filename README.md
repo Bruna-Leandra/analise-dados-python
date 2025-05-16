@@ -35,7 +35,7 @@ analise-dados-python/
 
 ## 📸 Exemplo de gráfico
 
-![Descrição da imagem](Images/gráfico-1.png)
+![Descrição da imagem](Images/grafico-1.PNG)
 
 ## 📌 Como executar
 
