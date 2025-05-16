@@ -11,8 +11,8 @@ analise-dados-python/
 ├── Notebooks/
 │   └── analise-vendas-jogos.ipynb
 ├── Images/
-│   └── gráfico-1.png
-    └── gráfico-2.png
+│   └── grafico-1.png
+    └── grafico-2.png
 ├── README.md
 ├── requirements.txt
 ```
