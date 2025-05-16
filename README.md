@@ -1,23 +1,48 @@
-# Análise de Dados com Python
+# Análise de Vendas de Jogos com Python 🎮📊
 
-Este projeto apresenta uma análise exploratória de dados utilizando **Python, Pandas e Seaborn** com uma base pública simulada.
+Este projeto tem como objetivo explorar e visualizar uma base de dados de vendas globais de jogos utilizando Python, Pandas, Seaborn e Matplotlib.
 
-## 🔧 Ferramentas utilizadas
+## 📁 Estrutura do Projeto
+
+```
+analise-dados-python/
+├── data/
+│   └── games_sales.csv
+├── notebooks/
+│   └── analise-vendas-jogos.ipynb
+├── images/
+│   └── grafico-generos.png
+├── README.md
+├── requirements.txt
+```
+
+## 📊 O que foi feito
+
+- Leitura e inspeção da base de dados
+- Verificação de dados ausentes
+- Estatísticas descritivas
+- Gráfico de distribuição de vendas globais
+- Gráfico de barras com os 10 gêneros mais frequentes
+
+## 🚀 Ferramentas utilizadas
+
 - Python
 - Pandas
 - Seaborn
 - Matplotlib
-- Google Colab ou Jupyter
+- Jupyter Notebook / Google Colab
 
-## 📊 Etapas da análise
-- Leitura dos dados (.csv)
-- Verificação de dados ausentes
-- Análise estatística
-- Visualizações com gráficos
+## 📸 Exemplo de gráfico
 
-## 📁 Arquivos
-- `analise.ipynb`: Notebook com o código da análise
-- `dataset.csv`: Base de dados utilizada
+![Gráfico de Gêneros](images/grafico-generos.png)
 
-## 🎯 Objetivo
-Desenvolver habilidades práticas de análise de dados, visualização e limpeza de dados com Python.
+## 📌 Como executar
+
+1. Clone este repositório
+2. Instale as dependências com:
+
+```
+pip install -r requirements.txt
+```
+
+3. Abra o notebook `notebooks/analise-vendas-jogos.ipynb` e execute as células
